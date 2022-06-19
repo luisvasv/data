@@ -1,0 +1,8 @@
+data columns (total 3 columns):
+ #   column   dtype   comments
+---  ------   -----   --------
+ 0   name     string  user name
+ 1   email    string  email user
+ 2   country  string  residence country
+dtypes    : string(3)
+delimeter : |
