@@ -1,0 +1,10 @@
+data columns (total 3 columns):
+ #   column   dtype   comments
+---  ------   -----   --------
+ 0   email   string  email user
+ 1   city    string  city ​​of birth 
+ 2   active  int     attend session
+ 3   citydc  string  capital district
+dtypes    : dtypes: int(1), strin(3)
+delimeter : 
+rows      : 10
